@@ -228,18 +228,18 @@ header .container .col-md-7 button {
 }
 
 .cards .title {
-    background: rgb(208, 241, 241, 0.199);
+    background: rgb(177, 156, 217, 0.199);
     padding: 1.4rem 2.5rem;
     font-size: 2vmin;
 }
 
 .card .card-text {
     padding: 2.5rem 3rem;
-    color: var(--light-black);
+    color: rgb(177, 156, 217);
 }
 
 .card-body .pricing {
-    background: rgb(208, 241, 241, 0.199);
+    background: rgb(177, 156, 217, 0.199);
     border-top-right-radius: 170px;
     border-top-left-radius: 170px;
 }

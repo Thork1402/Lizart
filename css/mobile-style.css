@@ -55,4 +55,10 @@
     footer .row .col-md-2 {
         margin-top: 8vmin;
     }
+
+    .card-body .pricing img {
+        padding-bottom: 15px;
+        border-radius: 50px;
+        height: 200px;
+    }
 }
